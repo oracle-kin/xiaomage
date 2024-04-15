@@ -1,0 +1,2 @@
+# xiaomage
+a java project
